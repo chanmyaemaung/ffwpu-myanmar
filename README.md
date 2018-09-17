@@ -2,7 +2,7 @@
 
 FWPU MYANMAR - Family Federation for World Peace and Unification MM
 
-![Screen Cast](Screen Cast.jpeg)
+![Screen Cast](/root/image/Screen-Cast.jpeg)
 
 ## ရည္ရြယ္ခ်က္
 
