@@ -24,11 +24,6 @@
 
 > `ကြ်န္ေတာ္ ခြင့္ျပဳပါတယ္...။`
 
-## Login Form
-> မိတ္ေဆြတို႔ ရဲ႕ Static Site ေတြမွာပဲ ျဖစ္ျဖစ္၊ Dynamic Site ေတြမွာပဲျဖစ္ျဖစ္၊
-> ကြ်န္ေတာ္ နမူနာတည္ေဆာက္ထားတဲ့ ယခု Login Form ေလးကို...
-> ယူသံုးျပီး၊ ျပင္ဆင္ႏိုင္ပါတယ္...။
-
 ### Contact Via Social :
 - https://www.facebook.com/chanlaymcmm - Facebook!
 [CHAN MYAE MAUNG](https://www.chanmyaemaung.net/)
