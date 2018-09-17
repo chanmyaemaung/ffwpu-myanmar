@@ -1,7 +1,7 @@
 
 # စုစည္းညီညြတ္ျခင္း ျမန္မာအသင္းေတာ္
 
-'FWPU MYANMAR' - Family Federation for World Peace and Unification MM
+`FWPU MYANMAR` - Family Federation for World Peace and Unification MM
 
 <p align="center">
   <img width="800" height="600" src="/root/image/Screen-Cast.jpeg">
@@ -22,7 +22,7 @@
 
 > ယခု Project ကို လိုအပ္တဲ့အခ်ိန္ References လုပ္ႏိုင္ဖို႔အတြက္
 
-> ကြ်န္ေတာ္ ခြင့္ျပဳပါတယ္...။
+> `ကြ်န္ေတာ္ ခြင့္ျပဳပါတယ္...။`
 
 ## Login Form
 > မိတ္ေဆြတို႔ ရဲ႕ Static Site ေတြမွာပဲ ျဖစ္ျဖစ္၊ Dynamic Site ေတြမွာပဲျဖစ္ျဖစ္၊
