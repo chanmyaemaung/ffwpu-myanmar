@@ -1,8 +1,10 @@
+<p align="center">
+  <img width="460" height="300" src="/root/image/Screen-cast.jpeg">
+</p>
+
 # စုစည္းညီညြတ္ျခင္း ျမန္မာအသင္းေတာ္
 
 FWPU MYANMAR - Family Federation for World Peace and Unification MM
-
-![Screen Cast](/root/image/Screen-Cast.jpeg)
 
 ## ရည္ရြယ္ခ်က္
 
