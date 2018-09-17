@@ -4,7 +4,7 @@
 FWPU MYANMAR - Family Federation for World Peace and Unification MM
 
 <p align="center">
-  <img width="460" height="300" src="/root/image/Screen-Cast.jpeg">
+  <img width="600" height="400" src="/root/image/Screen-Cast.jpeg">
 </p>
 
 ## ရည္ရြယ္ခ်က္
