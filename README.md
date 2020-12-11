@@ -1,5 +1,5 @@
 
-# စုစည္းညီညြတ္ျခင္း ျမန္မာအသင္းေတာ္
+# စုစည်းညီညွတ်ခြင်း မြန်မာအသင်းတော်
 
 `FWPU MYANMAR` - Family Federation for World Peace and Unification MM
 
@@ -7,22 +7,22 @@
   <img width="800" height="600" src="/root/image/Screen-Cast.jpeg">
 </p>
 
-## ရည္ရြယ္ခ်က္
+## ရည်ရွယ်ချက်
 
-> FFWPU-MYANMAR အသင္းသူ၊ အသင္းသားမ်ား လြယ္ကူစြာ Holy Songs, Family Pledge, သေဘာတရားေတာ္မ်ားကို
+> FFWPU-MYANMAR အသင်းသူ၊ အသင်းသားများ လွယ်ကူစွာ Holy Songs, Family Pledge, သဘောတရားတော်များကို
 
-> မည့္သည့္ ႏုိင္ငံပဲ သြားသည္ျဖစ္ေစ၊ အလြယ္တကူ မိမိတို႔၏ မိုလ္ဘိုင္းဖုန္းထဲကေန... ဖတ္ရႈႏိုင္ေအာင္ စီစဥ္ေပးထားတာပါ။
+> မည့်သည့် နိုင်ငံပဲ သွားသည်ဖြစ်စေ၊ အလွယ်တကူ မိမိတို့၏ မိုလ်ဘိုင်းဖုန်းထဲကနေ... ဖတ်ရှုနိုင်အောင် စီစဉ်ပေးထားတာပါ။
 
 ## Front-end
 - HTML5
 - Materialize CSS, Customized CSS3
 - Materialize JS, Customized JS
 
-> ဘာမွေထြေထြထူးထူး ထည့္သြင္းထားျခင္းမရွိပါဘူး။
+> ဘာမှထွေထွေထူးထူး ထည့်သွင်းထားခြင်းမရှိပါဘူး။
 
-> ယခု Project ကို လိုအပ္တဲ့အခ်ိန္ References လုပ္ႏိုင္ဖို႔အတြက္
+> ယခု Project ကို လိုအပ်တဲ့အချိန် References လုပ်နိုင်ဖို့အတွက်
 
-> `ကြ်န္ေတာ္ ခြင့္ျပဳပါတယ္...။`
+> `ကျွန်တော် ခွင့်ပြုပါတယ်...။`
 
 ### Contact Via Social :
 - https://www.facebook.com/chanlaymcmm - Facebook!
